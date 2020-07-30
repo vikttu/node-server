@@ -1,0 +1,22 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "a study on nodejs and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikttu/node-server.git"
+  },
+  "author": "Viktor N.P.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikttu/node-server/issues"
+  },
+  "homepage": "https://github.com/vikttu/node-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
